@@ -2,7 +2,7 @@
 In this project, I analyze a dataset and then communicate my findings about it. I used the Python libraries NumPy, pandas, and Matplotlib to make analysis easier.
 
 # What did I learn?
-* Knww all the steps involved in a typical data analysis process
+* Knew all the steps involved in a typical data analysis process
 * Became comfortable posing questions that can be answered with a given dataset and then answering those questions
 * Knew how to investigate problems in a dataset and wrangle the data into a format you can use
 * got experience communicating the results of your analysis
